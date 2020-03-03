@@ -1,0 +1,8 @@
+C:\Users\7\Source\Repos\TestProjectPractice\TestProject\bin\Debug\netcoreapp3.0\TestProject.exe
+C:\Users\7\Source\Repos\TestProjectPractice\TestProject\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\7\Source\Repos\TestProjectPractice\TestProject\bin\Debug\netcoreapp3.0\nunit.framework.dll
+C:\Users\7\Source\Repos\TestProjectPractice\TestProject\bin\Debug\netcoreapp3.0\WebDriver.dll
+C:\Users\7\Source\Repos\TestProjectPractice\TestProject\obj\Debug\netcoreapp3.0\TestProject.csprojAssemblyReference.cache
+C:\Users\7\Source\Repos\TestProjectPractice\TestProject\obj\Debug\netcoreapp3.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\7\Source\Repos\TestProjectPractice\TestProject\obj\Debug\netcoreapp3.0\TestProject.AssemblyInfo.cs
+C:\Users\7\Source\Repos\TestProjectPractice\TestProject\obj\Debug\netcoreapp3.0\TestProject.csproj.CopyComplete
